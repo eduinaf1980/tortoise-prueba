@@ -1,2 +1,4 @@
 utils/__pycache__
 models/__pycache__
+.idea
+venv
